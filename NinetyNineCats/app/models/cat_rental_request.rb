@@ -33,4 +33,6 @@ class CatRentalRequest < ApplicationRecord
     class_name: :Cat,
     foreign_key: :cat_id
 
+    #for todds commit
+
 end
